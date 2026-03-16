@@ -1,5 +1,7 @@
 # The Manifesto of Pragmatic Functionalism: Identity, Emergence, and Ethics
 
+[🇫🇷 Lire la version française ici](README_fr.md)
+
 ### I. Foundations of Identity
 
 **1. The Identity Equation:** The identity of an entity is not bound to its matter, but is defined by the sum of its **memory** (the history of its experiences) and its **way of thinking** (its algorithm for processing information and understanding the world).
